@@ -1,4 +1,4 @@
-# algorithm kulina prelim test
+# Algorithm KULINA Preliminary Test
 
 # Introduction
 
